@@ -1,9 +1,9 @@
 //TODO:
 
-linkedin.com/in/tsechelidismichail<br>
+https://www.linkedin.com/in/tsechelidismichail/<br>
 
 tsechelidis.michail@gmail.com<br>
 
-tsechelidismichail.github.io <br>
+https://tsechelidismichail.github.io/<br>
 
-github.com/tsechelidisMichail<br>
+https://github.com/tsechelidisMichail<br>
