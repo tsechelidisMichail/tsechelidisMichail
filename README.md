@@ -2,8 +2,4 @@ Check my most serious-yet- java project, using Maven and SonarCloud after archit
 
 https://www.linkedin.com/in/tsechelidismichail/<br>
 
-tsechelidis.michail@gmail.com<br>
-
 https://tsechelidismichail.github.io/<br>
-
-https://github.com/tsechelidisMichail<br>
