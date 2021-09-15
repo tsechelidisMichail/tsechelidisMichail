@@ -1,7 +1,8 @@
 <details>
   <summary><a href="https://github.com/testcatch/catchyNameFinal">Check</a> highlighted project.</summary>
   <h6>testcatch/catchyNameFinal</h6>
-  <p> The goal was to create a template for that kind of games , so that it is open-closed and be easily maintainable software.<br>
+  <p> A 2D top-down game using Java and Swing.<br>
+      The goal was to create a template for that kind of games , so that it is open-closed and be easily maintainable software.<br>
       This was done after Software Architectural Analysis and applying metrics using tools such us SonarCloud.
   </p>
 </details>
