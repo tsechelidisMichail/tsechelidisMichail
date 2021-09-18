@@ -12,7 +12,7 @@ About
 I find myself a big fan of conciseness and simplicity.<br><br>
 
 In the future I see myself having more knowledge about SDLC.<br>
-I want to deal with quality software and be able to contribute to the projects' software development and design.<br><br>
+I want to deal with SQA and be able to contribute to the projects' software development and design.<br><br>
 
 <a href="https://www.linkedin.com/in/tsechelidismichail/">LinkedIn</a><br>
 <a href="https://github.com/tsechelidisMichail">GitHub</a><br>
