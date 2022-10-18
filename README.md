@@ -1,10 +1,10 @@
 <details>
-  <summary><a href="https://github.com/testcatch/catchyNameFinal">Check</a> highlighted project.</summary>
-  <h6>testcatch/catchyNameFinal</h6>
-  <p> A 2D top-down game using Java and Swing.<br>
-      The goal was to create a template for that kind of games , so that it is open-closed and be easily maintainable software.<br>
-      This was done after Software Architectural Analysis and applying metrics using tools such us 
-      <a href='https://sonarcloud.io/dashboard?id=testcatch_catchyNameFinal'>SonarCloud</a>.
+  <summary><a href="https://github.com/tsechelidisMichail/HexagonalSM">Check</a> highlighted project.</summary>
+  <h6>tsechelidisMichail/HexagonalSM</h6>
+  <p>
+  (Educational) A simple server manager to learn distributed calls. It is also attached to a simple Web-App of Hexagon architecture emulating bank account operations.
+   <br>Simple java was used and not spring to test the hexagon architecture.(As said educational)
+   <a href='https://sonarcloud.io/project/overview?id=tsechelidisMichail_HexagonalSM'>SonarCloud</a>.
   </p>
 </details>
 
